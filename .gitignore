@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+web/node_modules/
+web/dist/
+*.db
+.env
+.demo-data/
+practice-worklogs.md
+web/tsconfig.tsbuildinfo

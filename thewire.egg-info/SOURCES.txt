@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+api/main.py
+thewire/__init__.py
+thewire/__main__.py
+thewire/core.py
+thewire.egg-info/PKG-INFO
+thewire.egg-info/SOURCES.txt
+thewire.egg-info/dependency_links.txt
+thewire.egg-info/entry_points.txt
+thewire.egg-info/requires.txt
+thewire.egg-info/top_level.txt
